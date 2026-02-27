@@ -26,7 +26,3 @@ https://lenis03.github.io/YouTube-Clone/
 - **CSS3**
 - **Flexbox**
 - **CSS Grid**
-
----
-
-## 📂 Project Structure
